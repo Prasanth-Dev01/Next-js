@@ -83,7 +83,7 @@ Best Royalty Free Stock Images, Illustrations and 3D assets
 ## List of UI Tools
 tools to make everything enjoyable
 
-[View]((https://github.com/PRASANHS/Next-js/blob/main/tools.md))
+[View](https://github.com/PRASANHS/Next-js/blob/main/tools.md)
 
 ---
 
