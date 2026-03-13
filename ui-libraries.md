@@ -44,6 +44,7 @@ Popular UI component libraries with pre-built, customizable components
 - [UI-TripleD](https://ui.tripled.work/) - Production-ready UI components and templates built with modern web technologies.
 - [UIVERSE](https://uiverse.io/) - Community-built library of UI elements. Copy as HTML/CSS, Tailwind, React and Figma.
 - [WIGGLE UI](https://wigggle-ui.vercel.app/) - An open-source curated collection of copy-paste widgets for your next project.
+- [HTML Component](https://www.goodcomponents.io/) - Browse our curated collection of HTML UI components ready to drop into your next project.
 
 ## List of Icon Libraries
 Icon sets with various styles and formats (SVG, font icons)
