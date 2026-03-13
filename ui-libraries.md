@@ -1,92 +1,208 @@
+# Frontend Resources for React & Next.js
+
+A curated collection of **UI libraries, development tools, utilities, icons, fonts, and resources** for React and Next.js developers.
+
+---
+
 # UI Libraries & Components
 
-A collection of UI libraries, icon libraries, and font resources for React and Next.js developers.
+Popular UI component libraries with pre-built, customizable components.
 
----
-
-## List of UI Libraries
-Popular UI component libraries with pre-built, customizable components
 - [21st.dev](https://21st.dev/components/) - Ship polished UIs faster with ready-to-use React Tailwind components inspired by shadcn/ui.
-- [8bitCN UI](https://www.8bitcn.com/) - A set of retro-designed, accessible components and a code distribution platform. Open Source. Open Code.
-- [Aceternity UI](https://ui.aceternity.com/) – Simple and elegant UI components.
-- [Animate UI](https://animate-ui.com/) - A fully animated, open-source component distribution with Shadcn CLI, Tailwind, TS & Motion.
-- [Basecoat UI](https://basecoatui.com/components/avatar/) - Basecoat brings the magic of shadcn/ui to any traditional web stack: no React required.
-- [Cult UI](https://www.cult-ui.com/) - Ready-to-use Shadcn compatible components for your react apps. Styled with tailwindcss, Open source & Typed.
-- [c15t](https://c15t.com/) - c15t is an open source framework for managing cookies, consent, and privacy compliance.
-- [CuiCui](https://cuicui.day/) – Experimental and creative UI elements.
-- [Cursify](https://cursify.vercel.app/) - A Collection of Cursor Components built with React Tailwind CSS and Framer Motion.
-- [DevUI](https://www.devui.in/) – Beautiful and accessible UI components.
-- [ElevenLabs UI](https://ui.elevenlabs.io/) - A collection of Open Source agent and audio components that you can customize and extend.
-- [GridCN](https://thegridcn.com/) - Tron: Ares inspired theme featuring Greek god color schemes, movie UI components, and immersive 3D effects.
-- [Ground](https://ground.bossadizenith.me/docs/components) - Handcrafted animated modern components build for performance and ready to use.
-- [Hero UI](https://www.heroui.com/) – Elegant and feature-rich UI components.
-- [HyperUI](https://www.hyperui.dev/) – Tailwind CSS-based UI components.
-- [Magic UI](https://magicui.design/) – Interactive and animated components.
-- [MapCN](https://mapcn.vercel.app/?ref=dailydev) - Ready to use, customizable map components for React. Built on MapLibre. Styled with Tailwind.
-- [MvpBlocks](https://blocks.mvp-subha.me/) - Copy-paste beautiful, responsive components without worrying about styling or animations.
-- [Neobrutalism UI](https://www.neobrutalism.dev/) - A collection of neobrutalism-styled components based on shadcn/ui.
-- [Kibo UI](https://www.kibo-ui.com/) - Designed to be fully composable so you can build, customize and extend them to your own needs.
-- [Lightswind UI](https://lightswind.com/) - Create stunning web applications effortlessly by using our 100+ professional and animated react components.
-- [Origin UI](https://originui.com/) – Modern and customizable React components.
-- [Pace UI](https://www.paceui.com/) - Animated components and design blocks crafted for smooth interaction and rich detail.
-- [React Bits](https://www.reactbits.dev/) – Collection of reusable React components.
-- [ReUi](https://reui.io) - UI components and animated effects built with React, Typescript, Tailwind, and Motion. Pairs beautifully with shadcn/ui.
-- [Sera UI](https://seraui.seraprogrammer.com/) - Beautifully designed components you can copy and paste into your apps.
-- [Smooth UI](https://smoothui.dev/) - Production-ready UI blocks for building beautiful websites and apps that look and feel the way you mean it.
-- [ShadCN UI](https://ui.shadcn.com/) – Minimalist and customizable UI components.
-- [ShadCN UI Blocks](https://www.shadcnui-blocks.com/) - A collection of ready to use Shadcn UI blocks and components.
-- [ShadCN Cookies](https://shadcn-cookies.vercel.app/) - Sleek and flexible cookie consent component, designed with shadcn/ui.
-- [ShadCN TipTap](https://tiptap.niazmorshed.dev/) - Collection of custom extensions and toolbars for Tiptap editor.
-- [Skiper UI](https://skiper-ui.com/) - Components crafted for Modern Websites.
-- [Tail Ark](https://tailark.com/) - A collection of Marketing UI Blocks.
-- [Tailus UI](https://ui.tailus.io/) – Tailwind-based component library.
-- [UI Layouts](https://www.ui-layouts.com/) - Free beautifull interactive react/nextjs component based on tailwindcss, motion, gsap, threejs.
-- [UI-TripleD](https://ui.tripled.work/) - Production-ready UI components and templates built with modern web technologies.
-- [UIVERSE](https://uiverse.io/) - Community-built library of UI elements. Copy as HTML/CSS, Tailwind, React and Figma.
-- [WIGGLE UI](https://wigggle-ui.vercel.app/) - An open-source curated collection of copy-paste widgets for your next project.
-- [HTML Component](https://www.goodcomponents.io/) - Browse our curated collection of HTML UI components ready to drop into your next project.
-
-## List of Icon Libraries
-Icon sets with various styles and formats (SVG, font icons)
-- [3D Icons](https://3dicons.co/) - More than 1500+ hand made Open Source & Premium 3d icons renders for ready to use
-- [All SVG Icons](https://allsvgicons.com/?ref=dailydev) - Browse and download 250,000+ free SVG icons from 220 carefully curated icon libraries.
-- [Animated Icons](https://icons.pqoqubbw.dev/) - Beautifully crafted animated icons built with motion and lucide and shadcn.
-- [Cool Shapes](https://coolshap.es/) - 100+ Abstract shapes with cool grainy gradient. Ready to use with any design project.
-- [Google Icons](https://fonts.google.com/icons) – Extensive collection of free icons by Google.
-- [Heroicons](https://heroicons.com/) – Handcrafted SVG icons by the makers of Tailwind CSS.
-- [Humaaans](https://www.humaaans.com/) - Mix-and-match illustrations of people in modern styles.
-- [Lucide](https://lucide.dev/) – Open-source icons with consistent design.
-- [Obra](https://icons.obra.studio/?ref=dailydev) - A simple, consistent set of icons, perfect for user interfaces.
-- [Phosphor](https://phosphoricons.com/) – Versatile icon set with multiple styles in SVG format.
-- [Simple Icons](https://simpleicons.org/) – Brand icons with SVG format support.
-- [Svgl.app](https://svgl.app/) - Free and widely-used SVG Logos.
-- [UnDraw](https://undraw.co/illustrations/) - Open-source illustrations for websites and apps.
-- [useAnimations](https://useanimations.com/) - Animated icons in Lottie Framework for immediate implementation to your apps or websites.
+- [8bitCN UI](https://www.8bitcn.com/) - Retro-designed, accessible components and code distribution platform.
+- [Aceternity UI](https://ui.aceternity.com/) – Elegant UI components.
+- [Animate UI](https://animate-ui.com/) - Fully animated open-source component distribution with Tailwind, TS, Motion, and shadcn CLI.
+- [Basecoat UI](https://basecoatui.com/components/avatar/) - shadcn-style components for traditional web stacks (no React required).
+- [Cult UI](https://www.cult-ui.com/) - Typed, Tailwind-styled shadcn-compatible components.
+- [c15t](https://c15t.com/) - Cookie consent and privacy compliance framework.
+- [CuiCui](https://cuicui.day/) – Experimental creative UI elements.
+- [Cursify](https://cursify.vercel.app/) - Cursor components built with React, Tailwind, and Framer Motion.
+- [DevUI](https://www.devui.in/) – Accessible UI components.
+- [ElevenLabs UI](https://ui.elevenlabs.io/) - Agent and audio components.
+- [GridCN](https://thegridcn.com/) - Tron-inspired UI components and theme.
+- [Ground](https://ground.bossadizenith.me/docs/components) - Animated performance-focused components.
+- [Hero UI](https://www.heroui.com/) – Feature-rich React UI components.
+- [HyperUI](https://www.hyperui.dev/) – Tailwind CSS component library.
+- [Kibo UI](https://www.kibo-ui.com/) - Fully composable components.
+- [Lightswind UI](https://lightswind.com/) - Professional animated React components.
+- [Magic UI](https://magicui.design/) – Interactive UI components.
+- [MapCN](https://mapcn.vercel.app/) - Tailwind-styled MapLibre map components.
+- [MvpBlocks](https://blocks.mvp-subha.me/) - Copy-paste responsive components.
+- [Neobrutalism UI](https://www.neobrutalism.dev/) - Neo-brutalist styled shadcn components.
+- [Origin UI](https://originui.com/) – Customizable React components.
+- [Pace UI](https://www.paceui.com/) - Animated UI blocks.
+- [React Bits](https://www.reactbits.dev/) – Reusable React components.
+- [ReUI](https://reui.io) - Tailwind + Motion animated components.
+- [SatisUi](https://satisui.xyz/) - Awwwards-inspired animations and built on a best-in-class modern stack
+- [Sera UI](https://seraui.seraprogrammer.com/) - Copy-paste React components.
+- [Smooth UI](https://smoothui.dev/) - Production-ready UI blocks.
+- [ShadCN UI](https://ui.shadcn.com/) – Minimal and customizable UI components.
+- [ShadCN UI Blocks](https://www.shadcnui-blocks.com/) - Ready-to-use shadcn UI blocks.
+- [ShadCN Cookies](https://shadcn-cookies.vercel.app/) - Cookie consent component built with shadcn.
+- [ShadCN TipTap](https://tiptap.niazmorshed.dev/) - Tiptap editor extensions and toolbars.
+- [Skiper UI](https://skiper-ui.com/) - Modern website components.
+- [Tail Ark](https://tailark.com/) - Marketing UI blocks.
+- [Tailus UI](https://ui.tailus.io/) – Tailwind UI library.
+- [UI Layouts](https://www.ui-layouts.com/) - React/Next.js components with Motion, GSAP, Three.js.
+- [UI-TripleD](https://ui.tripled.work/) - Modern production-ready UI components.
+- [UIVERSE](https://uiverse.io/) - Community UI elements.
+- [WIGGLE UI](https://wigggle-ui.vercel.app/) - Copy-paste widgets for projects.
 
 ---
 
-## List of Font Libraries
-Font resources for web and app design
-- [Adobe Fonts](https://fonts.adobe.com/) – Premium font collection (requires Adobe subscription).
-- [Google Fonts](https://fonts.google.com/) – Free and widely-used web fonts.
-- [nextjs-fonts](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts/) – Next.js-specific font optimization guide.
-- [Typography.com](https://typography.com/) – Professional-grade fonts with licensing options.
+# Icon Libraries
+
+- [3D Icons](https://3dicons.co/) - 1500+ open source 3D icons.
+- [All SVG Icons](https://allsvgicons.com/) - 250k+ SVG icons from curated libraries.
+- [Animated Icons](https://icons.pqoqubbw.dev/) - Motion-based animated icons.
+- [Cool Shapes](https://coolshap.es/) - Abstract gradient shapes.
+- [Google Icons](https://fonts.google.com/icons) – Google icon collection.
+- [Heroicons](https://heroicons.com/) – Tailwind's official icon set.
+- [Lucide](https://lucide.dev/) – Clean open-source icons.
+- [Obra Icons](https://icons.obra.studio/) - Minimal UI icons.
+- [Phosphor Icons](https://phosphoricons.com/) – Multi-style icon set.
+- [Simple Icons](https://simpleicons.org/) – Brand icons.
+- [SVGL](https://svgl.app/) - SVG logos.
+- [useAnimations](https://useanimations.com/) - Lottie animated icons.
 
 ---
 
-## List of Stock Image and Illustration Galleries
-Best Royalty Free Stock Images, Illustrations and 3D assets
-- [Lummi](https://www.lummi.ai/) - Free stock photos and royalty free images.
-- [Thiings Collection](https://www.thiings.co/things) - A collection of over 4000 free AI-generated 3D icons designed for designers and creative projects.
+# Fonts
+
+- [Adobe Fonts](https://fonts.adobe.com/) – Premium fonts.
+- [Google Fonts](https://fonts.google.com/) – Free web fonts.
+- [Next.js Font Optimization](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts/) – Next.js font loading guide.
+- [Typography.com](https://typography.com/) – Professional fonts.
 
 ---
 
-## List of UI Tools
-tools to make everything enjoyable
+# Stock Images & Illustrations
 
-[View](https://github.com/PRASANHS/Next-js/blob/main/tools.md)
+- [Lummi](https://www.lummi.ai/) - Free stock photos.
+- [StorySet](https://storyset.com/) - Customizable illustrations.
+- [Thiings](https://www.thiings.co/things) - AI-generated 3D assets.
 
 ---
 
-## Contribution
-Want to suggest UI libraries? Open a pull request!
+# Development Tools
+
+## UI Tools
+
+- [Color Converter](https://divmagic.com/tools/color-converter)
+- [Flexbox Labs](https://flexboxlabs.netlify.app/)
+- [Frimousse](https://frimousse.liveblocks.io/)
+- [Grid Generator](https://www.tailwindgen.com/)
+- [Gradienty](https://gradienty.codes/)
+- [Hyper Color](https://hypercolor.dev/)
+- [OKLCH Converter](https://oklch.com/)
+- [PostSpark](https://postspark.app/screenshot)
+- [ShadCN Form Builder](https://www.shadcn-form.com/playground)
+- [Swapy](https://swapy.tahazsh.com/)
+- [Tailwind CSS Animations](https://tailwindcss-animations.vercel.app)
+- [ThemeCN](https://themecn.dev/)
+- [Tools.UI Layout](https://tools.ui-layouts.com/)
+
+### UI Packages
+- [Skeleton Generator](https://shimmer-from-structure-docs.vercel.app/) - Structure-aware skeleton loader.
+
+---
+
+# Build Tools
+
+- [Parcel](https://parceljs.org/)
+- [Turbopack](https://turbo.build/pack)
+- [Vite](https://vitejs.dev/)
+- [Webpack](https://webpack.js.org/)
+
+---
+
+# Debugging Tools
+
+- [React Developer Tools](https://react.dev/learn/react-developer-tools)
+- [Redux DevTools](https://github.com/reduxjs/redux-devtools)
+
+---
+
+# Testing Frameworks
+
+- [Cypress](https://www.cypress.io/)
+- [Jest](https://jestjs.io/)
+
+---
+
+# Utilities
+
+## API & Data Fetching
+
+- [Arri](https://github.com/modiimedia/arri)
+- [Axios](https://axios-http.com/)
+- [Got](https://github.com/sindresorhus/got)
+- [Ky](https://github.com/sindresorhus/ky)
+- [Safe Fetch](https://github.com/Bharathi4real/safe-fetch)
+
+---
+
+## State Management
+
+- [Jotai](https://jotai.org/)
+- [Redux](https://redux.js.org/)
+- [Redux Thunk](https://redux.js.org/usage/writing-logic-thunks)
+- [Zustand](https://zustand-demo.pmnd.rs/)
+
+---
+
+## Form Handling
+
+- [Arri TypeScript Schema](https://github.com/modiimedia/arri/blob/master/languages/ts/ts-schema/README.md)
+- [React Hook Form](https://react-hook-form.com/)
+- [Zod](https://zod.dev/)
+
+---
+
+## Performance
+
+- [SWR](https://swr.vercel.app/)
+- [TanStack Query](https://tanstack.com/query/latest)
+
+---
+
+## Routing
+
+- [Next.js Router](https://nextjs.org/docs/routing/introduction)
+- [React Router](https://reactrouter.com/)
+
+---
+
+## Authentication
+
+- [BetterAuth](https://www.better-auth.com/)
+- [Clerk](https://clerk.com/)
+- [NextAuth.js](https://next-auth.js.org/)
+
+---
+
+## Onboarding & Product Tours
+
+- [Onborda](https://www.onborda.dev/)
+- [React Tours](https://docs.react.tours/quickstart)
+- [UserTour](https://www.usertour.io/)
+
+---
+
+## File Converters
+
+- [Vert](https://vert.sh/) - Convert images, audio, and documents.
+
+---
+
+## Miscellaneous
+
+- [Serva](https://getserva.com/) - Embed Instagram feeds on websites.
+
+---
+
+# Contribution
+
+Want to suggest a tool or library?
+
+Open a **pull request** and help expand the list.
