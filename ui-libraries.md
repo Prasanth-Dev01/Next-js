@@ -41,6 +41,7 @@ Popular UI component libraries with pre-built, customizable components.
 - [ShadCN Cookies](https://shadcn-cookies.vercel.app/) - Cookie consent component built with shadcn.
 - [ShadCN TipTap](https://tiptap.niazmorshed.dev/) - Tiptap editor extensions and toolbars.
 - [Skiper UI](https://skiper-ui.com/) - Modern website components.
+- [SPELL UI](https://spell.sh/docs/components) - Copy-ready Tailwind CSS components
 - [Tail Ark](https://tailark.com/) - Marketing UI blocks.
 - [Tailus UI](https://ui.tailus.io/) – Tailwind UI library.
 - [UI Layouts](https://www.ui-layouts.com/) - React/Next.js components with Motion, GSAP, Three.js.
