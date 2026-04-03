@@ -64,6 +64,7 @@ Popular UI component libraries with pre-built, customizable components.
 - [Simple Icons](https://simpleicons.org/) – Brand icons.
 - [SVGL](https://svgl.app/) - SVG logos.
 - [useAnimations](https://useanimations.com/) - Lottie animated icons.
+- [Avatar Face](https://www.facehash.dev/) - Generates unique faces.
 
 ---
 
