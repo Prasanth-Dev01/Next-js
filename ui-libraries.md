@@ -49,7 +49,7 @@ Popular UI component libraries with pre-built, customizable components.
 - [UIVERSE](https://uiverse.io/) - Community UI elements.
 - [WIGGLE UI](https://wigggle-ui.vercel.app/) - Copy-paste widgets for projects.
 - [Componentry Fun](https://www.componentry.fun/docs) - A growing collection of animated primitives for React.
----
+- [Tailwind CSS Templates](https://allutilitycss.com/templates/?pricing_model=free) - Discover 20+ free and premium Tailwind CSS templates at All UtilityCSS
 
 # Icon Libraries
 
