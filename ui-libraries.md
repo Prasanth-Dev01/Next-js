@@ -48,7 +48,7 @@ Popular UI component libraries with pre-built, customizable components.
 - [UI-TripleD](https://ui.tripled.work/) - Modern production-ready UI components.
 - [UIVERSE](https://uiverse.io/) - Community UI elements.
 - [WIGGLE UI](https://wigggle-ui.vercel.app/) - Copy-paste widgets for projects.
-
+- [Componentry Fun](https://www.componentry.fun/docs) - A growing collection of animated primitives for React.
 ---
 
 # Icon Libraries
